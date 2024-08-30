@@ -1,0 +1,2 @@
+recursive-include accredible/patches *
+recursive-include accredible/templates *
